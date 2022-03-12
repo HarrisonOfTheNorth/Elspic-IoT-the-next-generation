@@ -1,1 +1,1 @@
-# Elspic-Iot-the-next-generation
+# Elspic ~ 'IoT, the next generation'
