@@ -15,7 +15,8 @@ So if something is going to save IoT, it's next generation is very curiously *no
 - IoT is an 'internet' of Things ...
 - A connection of **Things** to the Internet ...
 - An 'Internet-of-Thing' device may connect to a local network, but never in it's lifetime actually surface to the internet ... but it's data *might*, possibly, or probably, will ... and,
-- We will refer to this vague relationship of 'Intranet to Internet' as Interweb, so that we can say that Things that do not have such Interweb connectivity are **not** IoT.
+- We will refer to this vague and sometimes confusing relationship of 'Intranet to Internet' as *Interweb*, so that we can say that Things that do not have such Interweb connectivity are **not** IoT.
+- Perhaps IoT is better called Interweb-of-Things.
 
 And yet almost paradoxically, this new emerging age is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device!
 
