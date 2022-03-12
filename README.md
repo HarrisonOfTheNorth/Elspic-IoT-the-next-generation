@@ -4,7 +4,7 @@ Yup, wonderwall. *But what's a wonderwall?*
 
 Well, according to Gallagher, "Wonderwall" describes "an imaginary friend who's gonna come and save you from yourself".
 
-So if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution* of IoT *that has all of the abstractions of IoT* but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. 
+So if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution of IoT outside of itself* **that has all of the abstractions of IoT** but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. 
 
 *We solution architects just love abstractions that free themselves!*
 
@@ -21,9 +21,9 @@ And yet almost paradoxically, this new emerging age is causing data from even th
 
 So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not Interweb based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
 
-Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio or terrestrial television, or even via a mere serial port connection.
+Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio, terrestrial television even amateur radio and amatuer television, ... or even via a mere serial port connection. Even a device at the end of a Morse Code wire can be automatically controlled, and yet that's not IoT. By the same token, there's other technology that is at the other end of the spectrum to the telegraph that's modern, amazing, and yet is 'hidden under the IoT rock'.
 
-- Yet the proliferation of various such 'Non-IoT' but nevertheless *leading-edge* devices, lays it upon us to want to categorise all of them under a singular umbrella so that we can accellerate the development of the collective science. The analogy here is that IoT is under a rock, but the broader science is not! Let's leave no stone unturned!
+- So the proliferation of various such 'Non-IoT' devices that are effectively hidden because they do not come up in an IoT search word result - but which are nevertheless *leading-edge* devices that warrant exposure to everyday John and Jane Tech - lays it upon us to want to categorise all of them under a singular umbrella so that we can accellerate the development of the collective science. The analogy here is that IoT is under a rock, but the broader science is not! Let's leave no stone unturned!
 
 Doing so will allow us to sub-categorize the science, and in doing so, extend ourselves into an 'IoT, the new generation' sort of wonderwall.
 
