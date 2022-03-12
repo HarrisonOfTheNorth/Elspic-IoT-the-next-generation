@@ -19,7 +19,7 @@ So if something is going to save IoT, it's next generation is very curiously *no
 
 And yet almost paradoxically, this new emerging age is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device!
 
-So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not internet based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
+So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not Interweb based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
 
 Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio or terrestrial television, or even via a mere serial port connection.
 
