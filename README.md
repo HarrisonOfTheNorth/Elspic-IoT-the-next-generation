@@ -38,4 +38,6 @@ Naturally, this is the science of *Electronic Conspicuity*, and the advantage of
 
 - Electronic Conspicuity is about the passage of information by any means, the device itself is **just** the means, and indeed, the device itself is expendable: so long as the data flows, it does not really matter what the transport layer is that channels that data to it's destination, nor the device or devices that made such transport possible.
 
+John and Jane Tech will take care of making the data flow.
 
+Because George and Georgina User really just care about what's electronically copnspicuous to them! 
