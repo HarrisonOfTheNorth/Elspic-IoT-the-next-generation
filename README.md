@@ -23,7 +23,7 @@ So where the general definitions of IoT start to break down, is where connectivi
 
 Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio or terrestrial television, or even via a mere serial port connection.
 
-- Yet the proliferation of various such 'Non-IoT' but nevertheless *leading-edge* devices, lays it upon us to want to categorise all of them under a singular umbrella so that we can accellerate the development of the collective science. The analogy here is that IoT is under a stone, but the broader science is not!
+- Yet the proliferation of various such 'Non-IoT' but nevertheless *leading-edge* devices, lays it upon us to want to categorise all of them under a singular umbrella so that we can accellerate the development of the collective science. The analogy here is that IoT is under a rock, but the broader science is not! Let's leave no stone unturned!
 
 Doing so will allow us to sub-categorize the science, and in doing so, extend ourselves into an 'IoT, the new generation' sort of wonderwall.
 
