@@ -4,7 +4,7 @@ Yup, wonderwall. *But what's a wonderwall?*
 
 Well, according to Gallagher, "Wonderwall" describes "an imaginary friend who's gonna come and save you from yourself".
 
-So if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution of IoT outside of itself* **that has all of the abstractions of IoT** but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. 
+You might not have even realised that IoT needs saving, but if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution of IoT outside of itself* **that has all of the abstractions of IoT** but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. 
 
 *We solution architects just love abstractions that free themselves!*
 
