@@ -27,8 +27,12 @@ Examples of such **Non-IoT** devices are those that transmit and receive via Blu
 
 Doing so will allow us to sub-categorize the science, and in doing so, extend ourselves into an 'IoT, the new generation' sort of wonderwall.
 
-So how do we describe the greater domain of IoT that includes our usual understanding of interweb [sic] connectivity, as well as those whose connectivity is precluded from IoT terminology simply because they do not use Interweb connectivity? And ghere, of course, I'm using the word *Interweb* to describe IoT in the foregoing Internet and 'Intranet and prospectively Internet' context.
+So how do we describe the greater domain of IoT that includes our usual understanding of interweb [sic] connectivity, as well as those whose connectivity is precluded from IoT terminology simply because they do not use Interweb connectivity? 
 
-So let's promote all of our present IoT abstractions to a new level that incorporates IoT but also brings Non-IoT abstractions into the same family: let's express this wider domain of devices as being 'Electronically Conspicuous', **Elspic** for short!
+The answer, of course, is to promote all of our present IoT **abstractions** to a new but higher level, and one that incorporates IoT but also brings Non-IoT abstractions into the same new family: let's express this wider domain of devices as being 'Electronically Conspicuous', **Elspic** for short!
 
-This, of course, is the science of *Electronic Conspicuity*, and the advantage of using the adjective by saying that something is *eletronically conspicuous* is that it abstracts the science away from what the device is, to what the device does. Electronic Conspicuity is about the passage of information by any means, the device itself is just the means.
+Naturally, this is the science of *Electronic Conspicuity*, and the advantage of using the adjective by saying that something is *eletronically conspicuous* is that it abstracts the science away from what the device is, to prevail over the device using abstractions of what the device does. 
+
+- Electronic Conspicuity is about the passage of information by any means, the device itself is **just** the means.
+
+
