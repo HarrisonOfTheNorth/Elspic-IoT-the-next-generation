@@ -22,9 +22,11 @@ And yet almost paradoxically, this new emerging age is causing data from even th
 
 So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not Interweb based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
 
-Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio, terrestrial television even amateur radio and amatuer television, ... or even via a mere serial port connection. Even a device at the end of a Morse Code wire can be automatically controlled, and yet that's not IoT. By the same token, there's other technology that is at the other end of the spectrum to the Morse telegraph that's modern, amazing, and yet is 'hidden under the IoT rock'.
+Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio, terrestrial television even amateur radio and amatuer television, ... or even via a mere serial port connection. Even a device at the end of a Morse Code wire can be automatically controlled - as demonstrated by stock market tickertapes of years gone by - and yet that's obviously not IoT. And yet by the very the same token, there's other technology that is at the other end of the spectrum to Morse telegraph tickertapes that's modern, amazing, and yet is 'hidden under the IoT rock'.
 
-- So the proliferation of various such 'Non-IoT' devices that are effectively hidden because they do not come up in an IoT search word result - but which are nevertheless *leading-edge* devices that warrant exposure to everyday John and Jane Tech - lays it upon us to want to categorise all of them under a singular umbrella so that we can accellerate the development of the collective science. The analogy here is that IoT is under a rock, but the broader science is not! Let's leave no stone unturned!
+- If it's not IoT and doesn't come up under an IoT search, it's hidden under a rock!
+
+So the proliferation of various such 'Non-IoT' devices that are effectively hidden because they do not come up in an IoT search word result - but which are nevertheless *leading-edge* devices that warrant exposure to everyday John and Jane Tech - lays it upon us to want to categorise all of them under a singular umbrella so that we can accellerate the development of the collective science. The analogy here is that IoT is under a rock, but the broader science is not! Let's leave no stone unturned!
 
 Doing so will allow us to sub-categorize the science, and in doing so, extend ourselves into an 'IoT, the new generation' sort of wonderwall.
 
