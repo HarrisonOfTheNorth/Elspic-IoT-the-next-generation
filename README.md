@@ -1,10 +1,12 @@
 # Elspic - *IoT's new Wonderwall*
 
-*What's a wonderwall?*
+Yup, wonderwall. *But what's a wonderwall?*
 
 Well, according to Gallagher, "Wonderwall" describes "an imaginary friend who's gonna come and save you from yourself".
 
-So if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution* of IoT *that has all of the abstractions of IoT* but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. *We solution architects just love abstractions that free themselves!*
+So if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution* of IoT *that has all of the abstractions of IoT* but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. 
+
+*We solution architects just love abstractions that free themselves!*
 
 **However first, let's recap IoT!**
 
@@ -15,7 +17,7 @@ So if something is going to save IoT, it's next generation is very curiously *no
 - An 'Internet-of-Thing' device may connect to a local network, but never in it's lifetime actually surface to the internet ... but it's data *might*, possibly, or probably, will ... and,
 - We will refer to this vague relationship of 'Intranet to Internet' as Interweb, so that we can say that Things that do not have such Interweb connectivity are **not** IoT.
 
-And yet almost paradoxically, data from even the smallest of circuit-boards can magically appear on the otherside of the world despite technically not being an IoT device!
+And yet almost paradoxically, this new emerging age is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device!
 
 So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not internet based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
 
