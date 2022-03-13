@@ -73,3 +73,5 @@ The THING about data that is electronically conspicuous - let's call this EoT, t
 It is important to note that when electronically conspicuous data is characterised as linear, tangental, or perpendicular, that the electronically conspicuous data **source** may not know which of these three categories that it's data is considered to be, *as consumed by a particular observer*. For example, the red light might not know if a particular observer of the colour red merely observed it but did nothing (linear), observed it but merely passed it on to another observer so that the other observer could do work (tangential), or observed it and did work itself (such as locking the studio door, perpendicular).
 
 As a side-note, data that is linear can be said to be important to an observer that is 'state conscious', and for example, which observed all light in the darkness but only passed that information on to another observer (tangential) when it was green, or did work itself when it observed it when it observed that it was green (perpendicular).
+
+For this reason, electronically conspicuous information can be said to be **innocuous** when it is being radiated and received, 
