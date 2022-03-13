@@ -1,6 +1,6 @@
 # Elspic - *IoT's new Wonderwall*
 
-The reason why John and Jane Tech take care of dataflow, is so that George and Georgina User can be exposed to what's electronically copnspicuous to them! *But what is this new science of Electronic Conspicuity, **Elspic** for short?* **And how is it an IOT Wonderwall?**
+The reason why John and Jane Tech take care of dataflow, is so that George and Georgina User can be exposed to what's electronically conspicuous to them! *But what is this new science of Electronic Conspicuity, **Elspic** for short?* **And how is it an IOT Wonderwall?**
 
 Yup, *wonderwall*. But what's a **wonderwall**?
 
