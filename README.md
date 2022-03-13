@@ -10,9 +10,9 @@ You might not have even realised that IoT needs saving, but if something is goin
 
 *We solution architects just love abstractions that free themselves!*
 
-By studying the abstraction of **Electronic Conspicuity**, we will; quickly discover that IOT needs saving from itself, *why* it needs saving from itself, and *how* Elspic is the solution.
+- By studying the abstraction of **Electronic Conspicuity**, we will; quickly discover that IOT needs saving from itself, *why* it needs saving from itself, and *how* Elspic is the solution.
 
-**However first, let's recap IoT!**
+## However first, let's recap IoT!
 
 *And let's be *simplistic* in our recap:*
 
@@ -22,7 +22,9 @@ By studying the abstraction of **Electronic Conspicuity**, we will; quickly disc
 - We will refer to this vague and sometimes confusing relationship of 'Intranet to Internet' as *Interweb*, so that we can say that Things that do not have such Interweb connectivity are **not** IoT.
 - Perhaps IoT is better called Interweb-of-Things.
 
-And yet almost paradoxically, this new emerging age is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device! The Interweb was not involved!
+## Elspic, The Emerging Science of Electronic Conspicuity
+
+Quite paradoxically, this new emerging age of Electronic Conspicuity is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device! The Interweb was not involved!
 
 So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not Interweb based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
 
@@ -38,9 +40,13 @@ So how do we describe the greater domain of IoT that includes our usual understa
 
 The answer, of course, is to promote all of our present IoT **abstractions** to a new but higher level, and one that incorporates IoT but also brings Non-IoT abstractions into the same new family: let's express this wider domain of devices as being 'Electronically Conspicuous', **Elspic** for short!
 
+## Let's Define the Science
+
 Naturally, this is the science of *Electronic Conspicuity*, and the advantage of using the adjective by saying that something is *eletronically conspicuous* is that it abstracts the science away from what the device is, to prevail over the device using abstractions of what the device does. 
 
 - Electronic Conspicuity is about the passage of information by any means, the device itself is **just** the means, and indeed, the device itself is expendable: so long as the data flows, it does not really matter what the transport layer is that channels that data to it's destination, nor the device or devices that made such transport possible.
+
+## This is Why
 
 John and Jane Tech will take care of making the data flow.
 
