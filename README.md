@@ -52,7 +52,7 @@ In the new age of Electronic Conspicuity, the focus is on the abstraction of the
 
 - A user receives data locally by Bluetooth, and what is significant here is that the data is electronically conspicuous to the user in the local context, *not* that the data was received by a technology called Bluetooth that only works locally. The data is radiated and received and is only electronically conspicuous in the local context.
 - A device sends data to a user on the other side of the world via satellite, and what is significant here is that the data is electronically conspicuous to the user in a remote point-of-presence context, *not* that the data was sent using a satellite technology that has a remote point-of-presence. The data is radiated and received and is only electronically conspicuous to the end user at the remote point-of-presence.
-- Information that is electronically conspicuous in the above examples are illustrated in an additional context where the data that is received is relayed further, whether a response from that relay is anticipated or not. The data is radiated and received and is electronically conspicuous in the global context, whether anonymously available, or available by private subscription.
+- Information that is electronically conspicuous in the above examples are illustrated in an additional context where the data that is received is relayed further, whether a response from that relay is anticipated or not. The data is radiated and received and is electronically conspicuous in the global context, whether anonymously available, or available only by private subscription.
 
 ## Summary
 
