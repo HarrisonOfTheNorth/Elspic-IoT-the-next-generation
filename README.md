@@ -44,10 +44,14 @@ The answer, of course, is to promote all of our present IoT **abstractions** to 
 
 Naturally, this is the science of *Electronic Conspicuity*, and the advantage of using the adjective by saying that something is *eletronically conspicuous* is that it abstracts the science away from what the device is, to prevail over the device using abstractions of what the device does. 
 
-- Electronic Conspicuity is about the passage of information by any means, the device itself is **just** the means, and indeed, the device itself is expendable: so long as the data flows, it does not really matter what the transport layer is that channels that data to it's destination, nor the device or devices that made such transport possible.
+- Electronic Conspicuity is about the passage of information by any means, the device itself is **just** the means, and indeed, the device itself is not just expendable, the device is capable of being transparently replaced or superceded, without the user being aware that here was a fundamental change in the subsisting transport layer of the electronically conspicuous data: so long as the data flows, it does not really matter what the transport layer is that channels that data to it's destination, nor the device or devices that made such transport possible!
 
-## This is Why
+In the new age of Electronic Conspicuity, the focus is on the abstraction of the data that is exposed to the user, within the context of how the user wishes to use that data.
+
+For example: A user receives data locally by Bluetooth, and what is significant here is that the data is electronically conspicuous to the user in the local context, *not* that the data was received by Bluetooth. 
+
+## Summary
 
 John and Jane Tech will take care of making the data flow.
 
-Because George and Georgina User really just care about what's electronically copnspicuous to them! 
+Because George and Georgina User really just care about what's electronically conspicuous to them! 
