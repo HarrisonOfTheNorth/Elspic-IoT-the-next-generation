@@ -1,5 +1,7 @@
 # Elspic - *IoT's new Wonderwall*
 
+## PART ONE: INTRODUCTION
+
 The reason why John and Jane Tech take care of dataflow, is so that George and Georgina User can be exposed to what's electronically conspicuous to them! *But what is this new science of Electronic Conspicuity, **Elspic** for short?* **And how is it an IOT Wonderwall?**
 
 Yup, *wonderwall*. But what's a **wonderwall**?
@@ -12,7 +14,7 @@ You might not have even realised that IoT needs saving, but if something is goin
 
 - By studying the abstraction of **Electronic Conspicuity**, we will; quickly discover that IOT needs saving from itself, *why* it needs saving from itself, and *how* Elspic is the solution.
 
-## However first, let's recap IoT!
+### However first, let's recap IoT!
 
 *And let's be *simplistic* in our recap:*
 
@@ -22,7 +24,7 @@ You might not have even realised that IoT needs saving, but if something is goin
 - We will refer to this vague and sometimes confusing relationship of 'Intranet to Internet' as *Interweb*, so that we can say that Things that do not have such Interweb connectivity are **not** IoT.
 - Perhaps IoT is better called Interweb-of-Things.
 
-## Elspic, The Emerging Science of Electronic Conspicuity
+### Elspic, The Emerging Science of Electronic Conspicuity
 
 Quite paradoxically, this new emerging age of Electronic Conspicuity is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device! The Interweb was not involved!
 
@@ -40,7 +42,7 @@ So how do we describe the greater domain of IoT that includes our usual understa
 
 The answer, of course, is to promote all of our present IoT **abstractions** to a new but higher level, and one that incorporates IoT but also brings Non-IoT abstractions into the same new family: let's express this wider domain of devices as being 'Electronically Conspicuous', **Elspic** for short!
 
-## Let's Define the Science
+### Let's Define the Science
 
 Naturally, this is the science of *Electronic Conspicuity*, and the advantage of using the adjective by saying that something is *eletronically conspicuous* is that it abstracts the science away from what the device is, to prevail over the device using abstractions of what the device does. 
 
@@ -48,14 +50,20 @@ Naturally, this is the science of *Electronic Conspicuity*, and the advantage of
 
 In the new age of Electronic Conspicuity, the focus is on the abstraction of the data that is exposed to the user, within the context of how the user wishes to use that data.
 
-## Elspic Illustrated 
+### Elspic Illustrated 
 
 - A user receives data locally by Bluetooth, and what is significant here is that the data is electronically conspicuous to the user in the local context, *not* that the data was received by a technology called Bluetooth that only works locally. The data is radiated and received and is only electronically conspicuous in the local context.
 - A device sends data to a user on the other side of the world via satellite, and what is significant here is that the data is electronically conspicuous to the user in a remote point-of-presence context, *not* that the data was sent using a satellite technology that has a remote point-of-presence. The data is radiated and received and is only electronically conspicuous to the end user at the remote point-of-presence.
 - Information that is electronically conspicuous in the above examples are illustrated in an additional context where the data that is received is relayed further, whether a response from that relay is anticipated or not. The data is radiated and received and is electronically conspicuous in the global context, whether anonymously available, or available only by private subscription.
 
-## Summary
+### Summary
 
 John and Jane Tech will take care of making the data flow.
 
 Because George and Georgina User really just care about what's electronically conspicuous to them! 
+
+## PART 2: THE UNIFIED TRANSPORT LAYER
+
+The THING about data that is electronically conspicuous - let's call this EoT, the 'Elspic-of-Things', or the 'Electronic Conspicuity-of-Things', is that data can be linear, tangental, or perpendicular.
+
+- Linear: Data that is both electronically conspicuous and is linear, is merely one dimensional. A red light in the night, for example, is not capable of a transformation in itself. For example, a red LED simply says 'I am red'; no work is done; an illustration is that a linear notification that is red, does not, in itself, cause the door to a recording studio to lock because a recording is underway; linear information is merely radiated and received.
