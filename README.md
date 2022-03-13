@@ -1,12 +1,16 @@
 # Elspic - *IoT's new Wonderwall*
 
-Yup, wonderwall. *But what's a wonderwall?*
+The reason why John and Jane Tech take care of dataflow, is so that George and Georgina User can be exposed to what's electronically copnspicuous to them! *But what is this new science of Electronic Conspicuity, **Elspic** for short?* **And how is it an IOT Wonderwall?**
+
+Yup, *wonderwall*. But what's a **wonderwall**?
 
 Well, according to Gallagher, "Wonderwall" describes "an imaginary friend who's gonna come and save you from yourself".
 
 You might not have even realised that IoT needs saving, but if something is going to save IoT, it's next generation is very curiously *not* going to be IoT, but instead be an *evolution of IoT outside of itself* **that has all of the abstractions of IoT** but is **bigger** than IoT - and poignantly - which releases all of the confined realms of IoT as though freeing all of the captive birds on earth so that they can freely fly into the sky. 
 
 *We solution architects just love abstractions that free themselves!*
+
+By studying the abstraction of **Electronic Conspicuity**, we will; quickly discover that IOT needs saving from itself, *why* it needs saving from itself, and *how* Elspic is the solution.
 
 **However first, let's recap IoT!**
 
