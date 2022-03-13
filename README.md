@@ -62,7 +62,7 @@ John and Jane Tech will take care of making the data flow.
 
 Because George and Georgina User really just care about what's electronically conspicuous to them! 
 
-## PART 2: THE UNIFIED TRANSPORT LAYER
+## PART 2: THE UNIFIED DATA ABSTRACTION
 
 The THING about data that is electronically conspicuous - let's call this EoT, the 'Elspic-of-Things', or the 'Electronic Conspicuity-of-Things' - is that data *that is observed as being electronically conspicuous* can be linear, tangental, or perpendicular.
 
