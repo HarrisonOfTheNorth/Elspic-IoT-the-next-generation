@@ -1,4 +1,4 @@
-# Elspic - *IoT's new Wonderwall* - am IoT to EoT transofrmation
+# Elspic - *IoT's new Wonderwall* - an IoT to EoT transofrmation
 
 ## PART ONE: INTRODUCTION
 
