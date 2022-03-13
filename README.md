@@ -48,7 +48,7 @@ Naturally, this is the science of *Electronic Conspicuity*, and the advantage of
 
 In the new age of Electronic Conspicuity, the focus is on the abstraction of the data that is exposed to the user, within the context of how the user wishes to use that data.
 
-For example: A user receives data locally by Bluetooth, and what is significant here is that the data is electronically conspicuous to the user in the local context, *not* that the data was received by Bluetooth. 
+For example: A user receives data locally by Bluetooth, and what is significant here is that the data is electronically conspicuous to the user in the local context, *not* that the data was received by a technology called Bluetooth that only works locally. 
 
 ## Summary
 
