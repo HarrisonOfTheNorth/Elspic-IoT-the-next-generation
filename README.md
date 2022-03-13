@@ -12,7 +12,9 @@ You might not have even realised that IoT needs saving, but if something is goin
 
 *We solution architects just love abstractions that free themselves!*
 
-- By studying the abstraction of **Electronic Conspicuity**, we will; quickly discover that IOT needs saving from itself, *why* it needs saving from itself, and *how* Elspic is the solution. Let's understand how EoT is fast-becoming the new IoT.
+- By studying the abstraction of **Electronic Conspicuity**, we will; quickly discover that IOT needs saving from itself, *why* it needs saving from itself, and *how* Elspic is the solution. 
+
+*So let's understand how EoT is fast-becoming the new IoT!*
 
 ### However first, let's recap IoT!
 
