@@ -76,4 +76,9 @@ It is important to note that when electronically conspicuous data is characteris
 
 As a side-note, data that is linear can be said to be important to an observer that is 'state conscious', and for example, which observed all light in the darkness but only passed that information on to another observer (tangential) when it was green, or did work itself when it observed it when it observed that it was green (perpendicular).
 
-For this reason, electronically conspicuous information can be said to be **innocuous** when it is being radiated and received, 
+For this reason, electronically conspicuous information can be said to be **innocuous** when it is being radiated and received, ...
+
+## Asking Experts Questions
+
+[YouTube: Asking Steen Graham about Fast Tracking Enterprise Business Outcomes](https://www.youtube.com/watch?v=kzNXPFguYik&t=2701s)
+
