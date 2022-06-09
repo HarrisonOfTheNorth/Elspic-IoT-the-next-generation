@@ -42,7 +42,7 @@ Doing so will allow us to sub-categorize the science, and in doing so, extend ou
 
 So how do we describe the greater domain of IoT that includes our usual understanding of interweb [sic] connectivity, as well as those whose connectivity is precluded from IoT terminology simply because they do not use Interweb connectivity? 
 
-The answer, of course, is to promote all of our present IoT **abstractions** to a new but higher level, and one that incorporates IoT but also brings wider Non-IoT abstractions into the same new family: let's express this wider domain of devices as being 'Electronically Conspicuous', **Elspic** for short, an 'EoT' that is the evolution of IoT, with EoT meaning an 'Electronic Conspicuity of Things' ... or if you can accept it, an Elspic-of-Things.
+- The answer, of course, is to promote all of our present IoT **abstractions** to a new but higher level, and one that incorporates IoT but also brings wider Non-IoT abstractions into the same new family: let's express this wider domain of devices as being 'Electronically Conspicuous', **Elspic** for short, an 'EoT' that is the evolution of IoT, with EoT meaning an 'Electronic Conspicuity of Things' ... or if you can accept it, an Elspic-of-Things.
 
 ### Let's Define the Science
 
