@@ -1,4 +1,4 @@
-# Elspic - *IoT's new Wonderwall* - an IoT to EoT transformation!
+# Electronic Conspicuity - *IoT's new Wonderwall* - an IoT to EoT transformation!
 
 ## PART ONE: INTRODUCTION
 
