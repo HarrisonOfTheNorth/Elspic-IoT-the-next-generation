@@ -30,7 +30,7 @@ You might not have even realised that IoT needs saving, but if something is goin
 
 Quite paradoxically, this new emerging age of Electronic Conspicuity is causing data from even the smallest of circuit-boards, to magically appear on the otherside of the world despite not being an IoT device! The Interweb was not involved!
 
-So where the general definitions of IoT start to break down, is where connectivity and transmission occurs is a context that is not Interweb based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
+So where the general definitions of IoT start to break down, is where connectivity and transmission occurs in a context that is not Interweb based, and yet data magically appears from a device, or to and subsequently on a device, that does not use any of the Interweb's protocols - for example, HTTP, TCP, and others.
 
 Examples of such **Non-IoT** devices are those that transmit and receive via Bluetooth or ZigBee, Short-Wave radio, terrestrial television even amateur radio and amatuer television, ... or even via a mere serial port connection. Even a device at the end of a Morse Code wire can be automatically controlled - as demonstrated by stock market tickertapes of years gone by - and yet that's obviously not IoT. And yet by the very the same token, there's other technology that is at the other end of the spectrum to Morse telegraph tickertapes that's modern, amazing, and yet is 'hidden under the IoT rock'.
 
